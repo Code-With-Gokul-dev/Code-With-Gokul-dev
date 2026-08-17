@@ -12,16 +12,16 @@
 <a href="https://gokulakrishnana.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-00BFA6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://github.com/Gokulproject5">
+<a href="https://github.com/Code-With-Gokul">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/gokulakrishnan-a-g8608">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:gokulakrishnanait2022@jkkn.ac.in">
+<a href="mailto: agokul110@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://instagram.com/web.devwithgokul">
+<a href="https://instagram.com/gokul_ey">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
@@ -41,7 +41,7 @@
 const developer = {
   name: "Gokulakrishnan A",
   role: "Full Stack Developer",
-  code: ["HTML", "CSS", "JavaScript", "Java"],
-  tools: ["React", "Node.js", "Express", "MongoDB"],
+  code: ["HTML", "CSS", "JavaScript"],
+  Stack: ["Next.js", "React", "Node.js", "Express", "MongoDB"],
   motto: "Code. Learn. Repeat."
 };
